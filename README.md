@@ -3,9 +3,7 @@
 [![Build Status](https://img.shields.io/travis/zquestz/em-shorty.svg)](https://travis-ci.com/zquestz/em-shorty)
 [![License](https://img.shields.io/github/license/zquestz/em-shorty.svg)](https://github.com/zquestz/em-shorty/blob/master/LICENSE)
 
-One of many url shortening apps out there. Was inspired by an article I read at:
 
-http://screencasts.org/episodes/activerecord-with-sinatra
 
 This project is currently live at:
 
